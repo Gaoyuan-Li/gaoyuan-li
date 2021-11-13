@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+✨ I‘m Gaoyuan Li, an undergraduate at Peking University.
+
+⚡ Double major in Biological Sciences (Bioinformatics Track) & Economics.
+
+👯 Senior member of the Undergraduate Honor Program in Biology (UHPB) .
+
+📫 Email: gaoyuan_li@pku.edu.cn
+
 <!--
 **Gaoyuan-Li/gaoyuan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
