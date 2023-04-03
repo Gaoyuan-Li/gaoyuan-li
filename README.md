@@ -4,8 +4,6 @@
 
 ⚡ Double major in Biological Sciences (Bioinformatics Track) & Economics.
 
-👯 Senior member of the Undergraduate Honor Program in Biology (UHPB) .
-
 📫 Email: gaoyuan_li@pku.edu.cn
 
 <!--
