@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-✨ I‘m Gaoyuan Li, an undergraduate at Peking University.
+✨ I‘m Gaoyuan Li, a Ph.D. student in the Department of Bioengineering at UC San Diego
 
-⚡ Double major in Biological Sciences (Bioinformatics Track) & Economics.
-
-📫 Email: gaoyuan_li@pku.edu.cn
+📫 Email: gaoyuan-li@ucsd.edu
 
 <!--
 **Gaoyuan-Li/gaoyuan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
