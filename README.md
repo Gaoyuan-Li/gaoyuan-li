@@ -2,8 +2,6 @@
 
 ✨ I‘m Gaoyuan Li, a Ph.D. student in the Department of Bioengineering at UC San Diego
 
-⚡ Graduate Student Researcher at [Systems Biology Research Group](https://systemsbiology.ucsd.edu/)
-
 📫 Email: gaoyuan-li@ucsd.edu
 
 <!--
